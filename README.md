@@ -51,7 +51,7 @@ I have professional experience in the software development industry. Precisely, 
 
 #### 🔭 I’m currently working on:
 - A Fullstack web application using [React.js](https://reactjs.org/) and [Micronaut](https://micronaut.io/) at [Full Scale](https://fullscale.io/).
-- A Personal Finance Management Mobile app using [Flutter](https://flutter.dev/) as a side project.
+- A [Personal Finance Management Mobile App](https://github.com/joneldominic/personal-finance-management-app) using [Flutter](https://flutter.dev/) as a side project.
     
 #### 👯 I'm looking to collaborate on:
 - Any projects related to [React.js](https://reactjs.org/) and [Flutter](https://flutter.dev/)
