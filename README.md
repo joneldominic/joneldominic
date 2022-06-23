@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-I have professional experience in the software development industry. Precisely, with technologies like Java, C#, Dart and Javascript. I am also a Java SE 8 Oracle Certified Associate. I have development experience working with both frontend and backend. I also contributed to developing a mobile application in Google Playstore and Huawei App.
+I have professional experience in the software development industry. Precisely, with technologies like Java, C#, Dart, and Javascript. I am also a Java SE 8 Oracle Certified Associate. I have development experience working with both frontend and backend. I also contributed to developing a mobile application in Google Playstore and Huawei App.
 
 #### 🔭 I’m currently working on:
 - A Fullstack web application using [React.js](https://reactjs.org/) and [Micronaut](https://micronaut.io/) at [Full Scale](https://fullscale.io/).
