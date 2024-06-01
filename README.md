@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <h3>Hi there 👋<h3>
 </div>
-
+    
+<!-- 
 <div id="stats" align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=joneldominic&show_icons=true&theme=dark&include_all_commits=true" />
@@ -30,12 +31,12 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/jonel-dominic-tapang">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<!--   <a href="https://www.youtube.com/channel/UC6L5ApY9Ib5OBu6cbhG1qnA/about">
+<a href="https://www.youtube.com/channel/UC6L5ApY9Ib5OBu6cbhG1qnA/about">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/dom_brave">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
+  </a>
 </div>
 
 <div id="profile-view" align="center">
@@ -58,3 +59,4 @@ I have professional experience in the software development industry. Specificall
     
 #### :writing_hand: Blog Posts :
 - *Work-in-progress*
+-->
